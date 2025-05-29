@@ -1,0 +1,16 @@
+{
+  "bot_token": "YOUR_BOT_TOKEN_HERE",
+  "staff_role_id": 0,
+  "unlimited_tickets_role_id": 0,
+  "ticket_channel_id": 0,
+  "transcripts_channel_id": 0,
+  "categories": {
+    "support": 0,
+    "partnership": 0,
+    "transfer": 0
+  },
+  "settings": {
+    "rate_limit_seconds": 10,
+    "max_tickets_per_user": 1
+  }
+}
